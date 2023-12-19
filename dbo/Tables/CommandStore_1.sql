@@ -4,6 +4,7 @@
     [Data]      NVARCHAR (MAX) NULL,
     [CreatedAt] DATETIME2 (7)  NOT NULL,
     [UserId]    NVARCHAR (MAX) NULL,
+    [Address] NCHAR(10) NULL, 
     CONSTRAINT [PK_CommandStore] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
