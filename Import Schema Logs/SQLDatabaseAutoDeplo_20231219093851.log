@@ -1,0 +1,88 @@
+19/12/2023 2:38:51 pm	This log contains information about the import schema operation into project 'SQLDatabaseAutoDeploy' on computer 'MUHAMMAD-ASLAM' by user 'Aslam'.
+19/12/2023 2:38:52 pm	Import of database schema has started.
+19/12/2023 2:38:53 pm	Gathering database credentials
+19/12/2023 2:38:53 pm	Gathering database options
+19/12/2023 2:38:53 pm	Gathering generic database scoped configuration option
+19/12/2023 2:38:53 pm	Gathering users
+19/12/2023 2:38:53 pm	Gathering roles
+19/12/2023 2:38:53 pm	Gathering application roles
+19/12/2023 2:38:53 pm	Gathering role memberships
+19/12/2023 2:38:53 pm	Gathering filegroups
+19/12/2023 2:38:53 pm	Gathering full-text catalogs
+19/12/2023 2:38:53 pm	Gathering assemblies
+19/12/2023 2:38:53 pm	Gathering certificates
+19/12/2023 2:38:53 pm	Gathering asymmetric keys
+19/12/2023 2:38:53 pm	Gathering symmetric keys
+19/12/2023 2:38:53 pm	Gathering encrypted symmetric keys
+19/12/2023 2:38:53 pm	Gathering schemas
+19/12/2023 2:38:53 pm	Gathering XML schema collections
+19/12/2023 2:38:53 pm	Gathering user-defined data types
+19/12/2023 2:38:53 pm	Gathering user-defined types
+19/12/2023 2:38:53 pm	Gathering table types
+19/12/2023 2:38:53 pm	Gathering unique keys for table types
+19/12/2023 2:38:53 pm	Gathering primary keys for table types
+19/12/2023 2:38:53 pm	Gathering indexes for table types
+19/12/2023 2:38:53 pm	Gathering check constraints for table types
+19/12/2023 2:38:53 pm	Gathering default constraints for table types
+19/12/2023 2:38:53 pm	Gathering partition functions
+19/12/2023 2:38:53 pm	Gathering partition schemes
+19/12/2023 2:38:53 pm	Gathering functions
+19/12/2023 2:38:53 pm	Gathering encrypted functions
+19/12/2023 2:38:53 pm	Gathering aggregates
+19/12/2023 2:38:53 pm	Gathering procedures
+19/12/2023 2:38:53 pm	Gathering encrypted procedures
+19/12/2023 2:38:53 pm	Gathering tables
+19/12/2023 2:38:54 pm	Gathering primary keys
+19/12/2023 2:38:54 pm	Gathering unique constraints
+19/12/2023 2:38:54 pm	Gathering foreign keys
+19/12/2023 2:38:54 pm	Gathering default constraints
+19/12/2023 2:38:54 pm	Gathering check constraints
+19/12/2023 2:38:54 pm	Gathering views
+19/12/2023 2:38:54 pm	Gathering encrypted views
+19/12/2023 2:38:54 pm	Gathering indexes
+19/12/2023 2:38:54 pm	Gathering statistics
+19/12/2023 2:38:54 pm	Gathering full-text index stoplists
+19/12/2023 2:38:54 pm	Gathering search property lists
+19/12/2023 2:38:54 pm	Gathering search properties
+19/12/2023 2:38:54 pm	Gathering full-text indexes
+19/12/2023 2:38:54 pm	Gathering column store indexes
+19/12/2023 2:38:54 pm	Gathering spatial indexes
+19/12/2023 2:38:54 pm	Gathering XML indexes
+19/12/2023 2:38:54 pm	Gathering Selective XML indexes
+19/12/2023 2:38:54 pm	Gathering encrypted triggers
+19/12/2023 2:38:54 pm	Gathering triggers
+19/12/2023 2:38:54 pm	Gathering encrypted and clr ddl triggers
+19/12/2023 2:38:54 pm	Gathering ddl triggers
+19/12/2023 2:38:54 pm	Creating edge constraints
+19/12/2023 2:38:54 pm	Gathering synonyms
+19/12/2023 2:38:54 pm	Gathering defaults
+19/12/2023 2:38:54 pm	Gathering data constraint uddt bindings
+19/12/2023 2:38:54 pm	Gathering rules
+19/12/2023 2:38:54 pm	Gathering data constraint uddt bindings
+19/12/2023 2:38:54 pm	Gathering message types
+19/12/2023 2:38:54 pm	Gathering queues
+19/12/2023 2:38:54 pm	Gathering contracts
+19/12/2023 2:38:54 pm	Gathering services
+19/12/2023 2:38:54 pm	Gathering event notifications
+19/12/2023 2:38:54 pm	Gathering remote service bindings
+19/12/2023 2:38:54 pm	Gathering broker priorities
+19/12/2023 2:38:54 pm	Gathering signatures
+19/12/2023 2:38:54 pm	Gathering data compression options
+19/12/2023 2:38:54 pm	Gathering sequence types
+19/12/2023 2:38:54 pm	Gathering security policies
+19/12/2023 2:38:54 pm	Gather column encryption keys
+19/12/2023 2:38:54 pm	Gathering column master keys
+19/12/2023 2:38:54 pm	Gathering external data sources
+19/12/2023 2:38:54 pm	Gathering external file formats
+19/12/2023 2:38:54 pm	Gathering external tables
+19/12/2023 2:38:54 pm	Gathering extended properties
+19/12/2023 2:38:56 pm	Gathering assemblies
+19/12/2023 2:38:56 pm	Gathering credentials
+19/12/2023 2:38:56 pm	Gathering logins
+19/12/2023 2:38:56 pm	Gathering server audits
+19/12/2023 2:38:56 pm	An exception was encountered while attempting to retrieve the default data path: ''.  As a result, absolute paths may appear in ADD FILE statements.
+19/12/2023 2:38:57 pm	Scanning project for duplicate elements
+19/12/2023 2:38:57 pm	Finished duplicate element processing
+19/12/2023 2:38:57 pm	Finished importing database.
+19/12/2023 2:38:57 pm	A summary of the import was saved to the following location: C:\Users\Aslam\Documents\SQLAutoDeploy\sqldbautodeploy\Import Schema Logs\SQLDatabaseAutoDeplo_20231219093851.log
+19/12/2023 2:38:57 pm	Click Finish to continue...
