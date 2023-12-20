@@ -5,7 +5,7 @@
     [CreatedAt] DATETIME2 (7)  NOT NULL,
     [UserId]    NVARCHAR (MAX) NULL,
     [Address] NCHAR(10) NULL, 
-    [city] NCHAR(10) NULL, 
+    [Mobile] NCHAR(10) NULL, 
     CONSTRAINT [PK_CommandStore] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
